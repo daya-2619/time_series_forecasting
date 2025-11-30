@@ -4,7 +4,7 @@ Professional, reproducible examples and a Streamlit app demonstrating time serie
 
 ## Live Demo
 
-Try the interactive Streamlit app: https://timeseriesforecasting-jflbtedcgoe5bxvr8hgbn5.streamlit.app
+[Try the interactive Streamlit app](https://timeseriesforecasting-jflbtedcgoe5bxvr8hgbn5.streamlit.app)
 
 ## Key Features
 
